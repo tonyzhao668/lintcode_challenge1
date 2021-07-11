@@ -2,6 +2,8 @@
 
 ## Description
 
+**This is for string operation challenge**
+
 * Challenge from lintCode
 
 * get a string s which consisting of lowercase letters a-z, left parentheses '(' and right parentheses ')'.
