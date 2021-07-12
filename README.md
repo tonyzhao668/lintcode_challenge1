@@ -1,5 +1,7 @@
 # lintcode_challenge1
 
+## Not finished yet
+
 ## Description
 
 **This is for string operation challenge**
