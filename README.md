@@ -1,6 +1,6 @@
 # lintcode_challenge1
 
-## Not finished yet
+## On going project
 
 ## Description
 
